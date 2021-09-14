@@ -3,6 +3,7 @@
 💻 Front-end developer for Minsait. 
 ### Studies:
 🎓  MSc in Network Engineering and Telematic Services
+
 🎓  BSc Telecommunication Technologies and Services 
 #### Technologies I have experience with
 - <img src="https://github.com/MarioPerezDev/MarioPerezDev/blob/main/react_icon.svg" width="15"> React
