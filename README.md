@@ -1,6 +1,6 @@
 ## Hi there, I am Mario 👋
 ### Current job:
-💻 Front-end developer for Minsait. 
+💻 Software Engineer for GMV. 
 ### Studies:
 🎓  MSc in Network Engineering and Telematic Services
 
