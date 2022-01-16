@@ -6,6 +6,8 @@
 
 🎓  BSc Telecommunication Technologies and Services 
 #### Technologies I have experience with
+- <img src="https://github.com/MarioPerezDev/MarioPerezDev/blob/main/js_icon.svg" width="15"> JavaScript
+- <img src="https://github.com/MarioPerezDev/MarioPerezDev/blob/main/TypeScriptIcon.webp" width="15"> TypeScript
 - <img src="https://github.com/MarioPerezDev/MarioPerezDev/blob/main/react_icon.svg" width="15"> React
 - <img src="https://github.com/MarioPerezDev/MarioPerezDev/blob/main/redux_icon.svg" width="15"> Redux
 - <img src="https://github.com/MarioPerezDev/MarioPerezDev/blob/main/html_icon.svg" width="15"> HTML
