@@ -1,6 +1,6 @@
 ## Hi there, I am Mario 👋
 ### Current job:
-💻 Software Engineer for GMV. 
+💻 Software Engineer for Openbank. 
 ### Studies:
 🎓  MSc in Network Engineering and Telematic Services
 
